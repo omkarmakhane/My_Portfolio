@@ -1,4 +1,4 @@
-import pic from "../../public/photo.avif"
+import pic from "../../public/omkar.png"
 
 import React from 'react'
 import { FaFacebookSquare } from "react-icons/fa";
@@ -35,7 +35,7 @@ function Home() {
        </div>
        <br />
        <p className='text-sm md:text-md text-justify'>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error a, impedit necessitatibus magni eius, reprehenderit veniam commodi animi, fugit tempora excepturi cumque minus sapiente labore quia rem nesciunt tempore aliquid.
+        Hello My name is omkar and i am Web Developer  Working on Frontend and Backend Projects my intrests are developing responsive websites and effective projects i have learning nature and i am self motiveted .
        </p>
        <br />
        {/*  social media icons */}

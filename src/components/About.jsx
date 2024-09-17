@@ -18,9 +18,8 @@ function About() {
               Education & Training
             </h1>
             <span>
-              [Degree/Certification], [Institution], [Year] [Degree/Certification],
-              [Institution], [Year] [Relevant Course], [Platform/Institution],
-              [Year]
+              [Bachelors of Computer Application], [MIT Collage of Basmat], [2025] [Full Stack Web Development], [Udemy],
+              [2024]
             </span>
             <br />
             <br />
@@ -28,22 +27,22 @@ function About() {
               Skills & Expertise
             </h1>
             <span>
-              Proficient in [Programming Languages] Experienced with [Software
-              Tools/Technologies] Strong grasp of [Design Principles/Concepts]
+              Proficient in [Web Development <br /> ] 
+              Experienced with [Frontend :-  React js, Html, CSS & Tailwind CSS<br />
+              Backend :- Node js, Express js <br/>
+              Database :- Mongo DB] 
+              Strong grasp of [Frontend Web Development]
               Excellent problem-solving skills Effective communicator and
               collaborator
             </span>
             <br />
             <br />
             <h1 className="text-green-600 font-semibold text-xl">
-              Professional Experience
+              Professional Experience & Project Experience
             </h1>
             <span>
-              [Job Title], [Company/Organization], [Dates] [Brief description of
-              responsibilities and achievements] [Job Title],
-              [Company/Organization], [Dates] [Brief description of responsibilities
-              and achievements] [Freelance/Contract Work], [Client/Organization],
-              [Dates] [Brief description of projects and contributions]
+              [Web Development], 
+              
             </span>
             <br />
             <br />
@@ -51,8 +50,8 @@ function About() {
               Achievements & Awards
             </h1>
             <span>
-              [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-              [Organization/Platform], [Year]
+              [ Frontend development Certificate], [Octanet Pvt.], [2023] [Web Development],
+              [Code Soft], [2024]
             </span>
             <br />
             <br />
