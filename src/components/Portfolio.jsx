@@ -1,7 +1,7 @@
 import React from 'react'
 import java from "../../public/java.png"
 import python from "../../public/python.webp"
-import mongoDB from "../../public/mongoDB.jpg" 
+import mongodb from "../../public/mongoDB.jpg"
 import express from "../../public/express.png"
 import reactjs from "../../public/reactjs.png"
 import nodejs from "../../public/node.png"
@@ -9,7 +9,7 @@ function Portfolio() {
     const cardItem=[
         {
             id:1,
-            logo:mongoDB,
+            logo:mongodb,
             name:"mongoDB"
         },
         {
